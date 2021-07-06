@@ -1,5 +1,8 @@
 # Coding Interview practices
 
+## [‼] Update [‼]
+I don't use this repository anymore, I'm practicing interviews with [LeetCode](https://leetcode.com/alesbe/) and [Codewars](https://www.codewars.com/users/Alesbe)
+
 ## English
 In this repository I try to give my solution to some of the coding interviews that I found interesting. The majority are to solve some kind of problem or develop an algorithm to solve it, so my usual choice is Python.
 
